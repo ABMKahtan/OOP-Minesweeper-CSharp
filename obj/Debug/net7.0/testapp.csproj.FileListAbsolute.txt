@@ -1,0 +1,15 @@
+C:\Users\abumk\VisualStudio\repos\testapp\bin\Debug\net7.0\testapp.exe
+C:\Users\abumk\VisualStudio\repos\testapp\bin\Debug\net7.0\testapp.deps.json
+C:\Users\abumk\VisualStudio\repos\testapp\bin\Debug\net7.0\testapp.runtimeconfig.json
+C:\Users\abumk\VisualStudio\repos\testapp\bin\Debug\net7.0\testapp.dll
+C:\Users\abumk\VisualStudio\repos\testapp\bin\Debug\net7.0\testapp.pdb
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.csproj.AssemblyReference.cache
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.AssemblyInfoInputs.cache
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.AssemblyInfo.cs
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.csproj.CoreCompileInputs.cache
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.dll
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\refint\testapp.dll
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.pdb
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\testapp.genruntimeconfig.cache
+C:\Users\abumk\VisualStudio\repos\testapp\obj\Debug\net7.0\ref\testapp.dll
